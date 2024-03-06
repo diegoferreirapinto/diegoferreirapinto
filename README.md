@@ -70,7 +70,7 @@
 
 <p> <br> </p>
 
-#### Since I was a kid, I love playing games. This an list of my loved games that I usually play: 
+#### This a list of games that love play: 
 <p>
   <span>
     <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> 
