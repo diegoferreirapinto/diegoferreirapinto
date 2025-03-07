@@ -43,8 +43,7 @@
 ## **Tolls**
 
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"> 
-  <br> <img src="https://img.shields.io/badge/PyCharm-FFFFFF.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"> </span>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-FFFFFF.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"> </span>
 
 <hr>
 
