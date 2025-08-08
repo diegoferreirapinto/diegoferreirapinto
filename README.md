@@ -17,14 +17,24 @@
 
 ### 🛠 Dev Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,php,laravel,java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,react,vite&theme=light" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony&theme=light" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=light" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask&theme=light" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git&theme=light" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=ubuntu,windows,vscode,pycharm,eclipse&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse&theme=light" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows&theme=light" />
+  <br/>
 </p>
 
-> I also work with GeoServer, GeoNetwork, and ISO / IHO S-57/S-100 standards in geospatial solutions.
 
 ---
 
@@ -38,6 +48,8 @@
 - 🌦 **Ship Synop Web (SSW)** – Meteorological observation system integrated with **WMO GTS** and **BNDO**.  
 - 🗂 **SisBTec** – Web system for managing technical archives of CPN and DEN, replacing legacy MS Access with a cross-platform, browser-based solution aligned with the Brazilian Navy’s Free Software Plan. Access control by document classification.
 <br />
+
+> I also work with GeoServer, GeoNetwork, and ISO / IHO S-57/S-100 standards in geospatial solutions.
 
 ---
 
