@@ -1,15 +1,48 @@
 <!-- Banner animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Diego%20Ferreira%20Pinto&fontSize=40&fontColor=2ECC71&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<p align="center">
-  🌐 Select your language | Selecione seu idioma  
-  <a href="#english-version">🇺🇸 English</a> | <a href="#versao-em-portugues">🇧🇷 Português</a>
-</p>
+<style>
+.tab-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+.tab-container input {
+  display: none;
+}
+.tab-container label {
+  cursor: pointer;
+  padding: 8px 16px;
+  border: 1px solid #2ECC71;
+  margin: 0 4px;
+  border-radius: 6px;
+  background: #0f2027;
+  color: #2ECC71;
+  font-weight: bold;
+}
+.tab-container input:checked + label {
+  background: #2ECC71;
+  color: #fff;
+}
+.tab-content {
+  display: none;
+}
+#tab-en:checked ~ #content-en,
+#tab-pt:checked ~ #content-pt {
+  display: block;
+}
+</style>
 
----
+<div class="tab-container">
+  <input type="radio" id="tab-en" name="lang" checked>
+  <label for="tab-en">🇺🇸 English</label>
+  <input type="radio" id="tab-pt" name="lang">
+  <label for="tab-pt">🇧🇷 Português</label>
+</div>
+
+<div id="content-en" class="tab-content">
 
 ## 🇺🇸 English Version
-<a id="english-version"></a>
 
 <p align="center">
   <a href="https://github.com/diegoferreirapinto">
@@ -53,10 +86,11 @@
   <a href="https://github.com/diegoferreirapinto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
+</div>
+
+<div id="content-pt" class="tab-content">
 
 ## 🇧🇷 Versão em Português
-<a id="versao-em-portugues"></a>
 
 <p align="center">
   <a href="https://github.com/diegoferreirapinto">
@@ -100,7 +134,7 @@
   <a href="https://github.com/diegoferreirapinto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
+</div>
 
 <!-- Rodapé decorativo -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
