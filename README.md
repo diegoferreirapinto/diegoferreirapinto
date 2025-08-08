@@ -25,7 +25,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask&theme=light" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light" />
   <br/>
