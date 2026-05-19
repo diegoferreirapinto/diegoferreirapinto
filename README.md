@@ -52,59 +52,60 @@ Atualmente, concentro meus estudos e projetos em aplicações com **React/Vite**
 
 ## 🧰 Stack principal
 
-<table width="100%">
+<table align="center" width="100%" style="width: 100%; min-width: 100%; max-width: 100%;">
   <tr>
-    <td width="25%" valign="middle">
+    <td width="22%" valign="middle">
       <strong>💻 Código</strong>
     </td>
-    <td width="75%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,php,python,react,vite&theme=dark" />
+    <td width="78%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=java,php,python,react,vite&theme=dark&perline=10" />
     </td>
   </tr>
 
   <tr>
-    <td width="25%" valign="middle">
+    <td width="22%" valign="middle">
       <strong>⚙️ Backend e APIs</strong>
     </td>
-    <td width="75%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />      
+    <td width="78%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark&perline=10" />
+    </td>
   </tr>
 
   <tr>
-    <td width="25%" valign="middle">
+    <td width="22%" valign="middle">
       <strong>🗄️ Bancos de dados</strong>
     </td>
-    <td width="75%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,msaccess&theme=dark" />
-
+    <td width="78%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark&perline=10" />
+    </td>
   </tr>
 
   <tr>
-    <td width="25%" valign="middle">
+    <td width="22%" valign="middle">
       <strong>🛠️ Ferramentas</strong>
     </td>
-    <td width="75%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+    <td width="78%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=10" />
     </td>
   </tr>
 
   <tr>
-    <td width="25%" valign="middle">
+    <td width="22%" valign="middle">
       <strong>🖥️ Sistemas</strong>
     </td>
-    <td width="75%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows&theme=dark" />
+    <td width="78%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows&theme=dark&perline=10" />
     </td>
   </tr>
 
   <tr>
-  <td width="25%" valign="middle">
-    <strong>🌐 Atuação</strong>
-  </td>
-  <td width="75%" valign="middle">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,leaflet&theme=dark&perline=10" />
-  </td>
-</tr>
+    <td width="22%" valign="middle">
+      <strong>🌐 Atuação</strong>
+    </td>
+    <td width="78%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark&perline=10" />
+    </td>
+  </tr>
 </table>
 
 ---
